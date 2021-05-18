@@ -1,0 +1,16 @@
+{
+    "btn_back": {
+        "all_scores": {
+            "hash_based": 1.0
+        }, 
+        "score": 1.0, 
+        "source": "hash_based"
+    }, 
+    "lnk_back": {
+        "all_scores": {
+            "hash_based": 1.0
+        }, 
+        "score": 1.0, 
+        "source": "hash_based"
+    }
+}
